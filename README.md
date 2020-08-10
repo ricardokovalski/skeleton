@@ -4,6 +4,7 @@ Estrutura padrão para começar a desenvolver pacotes em PHP.
 
 ## Estrutura
 
+* docs/ - Diretório que contém a documentação do pacote.
 * examples/ - Diretório que contém exemplos do uso do seu pacote.
 * src/ - Diretório que contém todo o fonte do seu pacote.
 * tests/ - Diretório que contém os testes do seu pacote.
