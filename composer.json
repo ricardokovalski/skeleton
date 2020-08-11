@@ -1,20 +1,16 @@
 {
-  "name": "ricardokovalski/installment-calculator",
-  "description": "Biblioteca para calcular parcelas.",
+  "name": "<VendorName>/<PackageName>",
+  "description": "Description from package.",
   "type": "library",
   "authors": [
     {
-      "name": "Ricardo Kovalski",
-      "email": "ricardokovalskicruz@gmail.com",
+      "name": "Name from maintainer",
+      "email": "E-mail from maintainer",
       "role": "Maintainer"
     }
   ],
   "license": "MIT",
-  "keywords": [
-    "calculator",
-    "installments",
-    "interest"
-  ],
+  "keywords": ["keywords"],
   "require": {
     "php": ">=5.6",
     "ext-json": "*"
@@ -24,7 +20,7 @@
   },
   "autoload": {
     "psr-4": {
-      "Moguzz\\": "src/"
+      "VendorName\\": "src/"
     }
   }
 }
