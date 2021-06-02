@@ -27,5 +27,7 @@
     "psr-4": {
       "VendorName\\Tests\\": "tests/"
     }
-  }
+  },
+  "minimum-stability": "dev",
+  "prefer-stable": true
 }
