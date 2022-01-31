@@ -1,5 +1,5 @@
 {
-  "name": "<VendorName>/<PackageName>",
+  "name": "ricardokovalski/skeleton",
   "description": "Description from package.",
   "type": "library",
   "authors": [
